@@ -1,0 +1,17 @@
+<html>
+<head>
+</head>
+<body>
+  <script>
+     function m(){
+    	 window.x=10; // global variable declaring
+     }
+     
+     function n(){
+         m(); // undefined message result in alert in case of commenting of this line
+    	 alert(window.x);
+     }
+     n();
+  </script>
+</body>
+</html>

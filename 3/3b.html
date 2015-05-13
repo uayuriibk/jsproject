@@ -1,0 +1,28 @@
+<html>
+<head>
+</head>
+<body>
+  <script>
+    var y=20; // global variable  
+    var z=30;
+  
+    function funcShowX(){
+       var x=10; // local variable
+       document.writeln(x);
+    }
+    
+    function funcShowZ(){
+    	window.writeln(z);
+    }
+    
+    funcShowX();
+    funcShowZ();
+    
+    document.writeln(x);
+    document.writeln(y);
+    window.writeln(z+1000);
+    
+    
+  </script>
+</body>
+</html>
