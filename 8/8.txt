@@ -1,0 +1,7 @@
+JS array is an object which represents a collection of similar type of elements
+
+There are 3 ways to construct array in JS:
+1. By array literal
+2. By creating instance of Array directly (using new keyword)
+3. By using an Array constructor (using new keyword)
+
