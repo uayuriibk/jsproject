@@ -14,3 +14,20 @@ WINDOW
  - NAVIGATOR
  - LOCATION
  
+"window" object represents window in browser.
+It's created automaticaly.
+
+"window" - object of browser, not object of JS.
+
+JS objects: string, array, date etc.
+
+Note: if html contains frames, browser creates additional window objects for each frame
+
+Methods of window object:
+- alert()
+- confirm()
+- prompt()
+- open()
+- close()
+- setTimeout()
+
