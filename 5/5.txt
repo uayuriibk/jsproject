@@ -1,0 +1,5 @@
+There are 4 types of loops in JS:
+1. for loop
+2. while loop
+3. do-while loop
+4. for-in loop
