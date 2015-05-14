@@ -1,0 +1,64 @@
+There are 5 primitive data types in JS:
+- String (sequence of characters, e.g. "Hello")
+- Number (numeric values, e.g. 100)
+- Boolean (boolean value true or false)
+- Undefined (undefined value)
+- Null (null, i.e. no value at all)
+
+There are 3 non-primitive data types:
+- Object (instance through which we can access members)
+- Array (group of similar values)
+- RegExp (regular expression)
+
+There are following types of operators in JS:
+1) Arithmetic
+2) Comparison
+3) Bitwise
+4) Logical
+5) Assignment
+6) Special
+
+Arithmetics:
+1. +
+2. -
+3. *
+4. / 
+5. % Modulus division (20%10=0)
+6.++ Increment
+7. -- Decrement
+
+Comparison Operators:
+1. == is equal to
+2. === identical (equal and of same type)
+3. != not equal
+4. !== not identical
+5. > greater than
+6. >= greater than or equal to
+7. < less than
+8. <=
+
+JS Bitwise Operators
+1. & - AND (10==20 & 20==33)
+2. | - OR  (10==20|20==33)
+3. ^ XOR
+4. ~ NOT
+etc
+
+JS Logical Operators:
+&& - AND
+|| OR
+! NOT
+
+
+JS Special Operators
+1. (?:) it's like if else
+2. , 
+3. delete - deletes the property from object
+4. in - checks if object has the given property
+5. instanceof - checks if the object is an instance of given type
+6. new - creates an instance (object)
+7. typeof - checks the type of object
+8. void - it discards the expression's return value
+9. yield - checks what is returned in a generator by the generator's iterator
+
+
