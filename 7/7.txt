@@ -1,0 +1,9 @@
+JS is an object-oriented language.
+Everything is an object.
+JS is template based not class based.
+
+There are 3 ways to create the object in JS:
+1. By object literal
+2. By using keyword new creating instance of Object directly
+3. By using an object constructor using new keyword
+
