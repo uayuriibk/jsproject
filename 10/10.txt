@@ -1,0 +1,16 @@
+BOM(Browser Object Model) is used to interact with the browser.
+The default object of browser is window.
+
+It means that we can call its function without "window.*".
+  window.alert("Hello World!");
+  
+The document object represents an html document.
+It forms DOM (Document Object Model).
+
+WINDOW
+ - DOCUMENT
+ - HISTORY
+ - SCREEN
+ - NAVIGATOR
+ - LOCATION
+ 
