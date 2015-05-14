@@ -1,0 +1,4 @@
+JS string is an object which represents a sequence of characters
+There are 2 ways to create string in JS:
+1. Using string literal
+2. using string object (using new keyword)
